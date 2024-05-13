@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, Hola mi nombre es Joan
+#### Desarrollador de aplicaciones multiplataforma.
+![Desarrollador de aplicaciones multiplataforma.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**J0anet/J0anet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador junior con ganas de entrar en el mundo TECH. Hay muchos campos que me llaman la atención, pero en concreto MOBILE es el que me apasiona.
 
-Here are some ideas to get you started:
+Habilidades: Kotlin, Java, Python, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Proyectos personales para mejorar. 
+- 🌱 Estoy aprendiendo Jetpack Compose 
+- 📫 Cómo contactarme: joan.enajas@gmail.com 
+
+
+
+

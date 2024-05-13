@@ -40,7 +40,7 @@ Lenguajes:
 
 
 - 🔭 Estoy trabajando en Proyectos personales para mejorar. 
-- 🌱 Estoy aprendiendo Jetpack Compose 
+- 🌱 Estoy aprendiendo Jetpack Compose,redix y python en general.
 - 📫 Cómo contactarme: joan.enajas@gmail.com 
 
 
@@ -48,5 +48,5 @@ Lenguajes:
 
 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
-      (https://www.linkedin.com/in/Joan Enajas Cortés/)  
+      (www.linkedin.com/in/joan-enajas-cortés-4689906a)  
 

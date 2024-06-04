@@ -2,7 +2,7 @@
 #### Desarrollador de aplicaciones multiplataforma.
 
 
-Soy un programador junior con ganas de entrar en el mundo TECH. Hay muchos campos que me llaman la atención, pero en concreto MOBILE es el que me apasiona.
+Soy un programador junior con ganas de entrar en el mundo TECH. Hay muchos campos que me llaman la atención pero en concreto MOBILE es el que me apasiona.
 
 Lenguajes:
 

@@ -40,7 +40,8 @@ Lenguajes:
 
 
 - 🔭 Estoy trabajando en Proyectos personales para mejorar. 
-- 🌱 Estoy aprendiendo Jetpack Compose,reflex y python en general.
+- 🌱 Estoy aprendiendo Jetpack Compose para mobile.
+-    Estoy aprendiendo un poco de web con reflex y un poco de python en general.
 - 📫 Cómo contactarme: joan.enajas@gmail.com 
 
 

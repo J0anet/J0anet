@@ -26,19 +26,6 @@ Lenguajes:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 🔭 Trabajando en Proyectos personales para mejorar. 
 - 📱 Aprendiendo Jetpack Compose para mobile.
 - 🏋️ Aprendiendo python y reflex para webs estaticas.
@@ -50,4 +37,7 @@ Lenguajes:
 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
       (www.linkedin.com/in/joan-enajas-cortés-4689906a)  
+
+  Puedes Ver mi porfolio en:
+  Porfolio(https://jenajas.netlify.app/)
 

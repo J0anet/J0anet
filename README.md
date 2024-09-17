@@ -38,7 +38,7 @@ Lenguajes:
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>      (www.linkedin.com/in/joan-enajas-cortés-4689906a)  
      
 
-### Mi Portafolio
+### Mi Porfolio
 
 Puedes verlo en:
 https://jenajas.netlify.app/

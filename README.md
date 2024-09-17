@@ -35,9 +35,10 @@ Lenguajes:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/j0anet) J0anet
 
 
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> 
-      (www.linkedin.com/in/joan-enajas-cortés-4689906a)  
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>      (www.linkedin.com/in/joan-enajas-cortés-4689906a)  
+     
 
-  Puedes Ver mi porfolio en:
-  Porfolio(https://jenajas.netlify.app/)
+### Mi Portafolio
 
+Puedes verlo en:
+https://jenajas.netlify.app/

@@ -27,8 +27,8 @@ Lenguajes:
 
 
 - 🔭 Trabajando en Proyectos personales para mejorar. 
-- 📱 Aprendiendo Jetpack Compose para mobile.
-- 🏋️ Aprendiendo python y reflex para webs estaticas.
+- 📱 Aprendiendo desarrollo mobile con Jetpack Compose.
+- 🏋️ Aprendiendo JS, React y Tailwind para fortalecer mi perfil de desarrollo web.
 - 📫 Cómo contactarme: joan.enajas@gmail.com 
 
 

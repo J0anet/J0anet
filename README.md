@@ -25,7 +25,7 @@ Con los que trabajo y para los que desarrollo.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-- 💼 Actualmente en IDWaste, desarrollando apps Android para operaciones de campo (WebView, híbridas y nativas) sobre dispositivos industriales.
+- 💼 Actualmente, desarrollando apps Android para operaciones de campo (WebView, híbridas y nativas) sobre dispositivos industriales.
 - 🚀 Construyendo mi propio SaaS de presencia web para negocios locales, con clientes reales activos.
 - 🔭 Migrando la arquitectura de mi producto a Supabase/PostgreSQL para soportar múltiples verticales de negocio.
 - 📱 Profundizando en Jetpack Compose y arquitecturas Android modernas.

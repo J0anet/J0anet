@@ -1,44 +1,61 @@
-### Hola 👋, mi nombre es Joan
-#### Desarrollador Android y Web
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8630A,100:0d1117&height=190&section=header&text=Joan%20Enajas&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Barcelona&descAlignY=58&descSize=18&animation=fadeIn" alt="Joan Enajas" width="100%" />
+</p>
 
-Con 1,5 años de experiencia profesional desarrollando aplicaciones Android para dispositivos industriales (RFID, GPS, BLE), y construyendo mi propio producto SaaS para negocios locales de principio a fin.
+<p align="center">
+  <a href="https://jenajas.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8630A&center=true&vCenter=true&width=640&lines=Web+Developer+%C2%B7+React+%26+TypeScript;Building+a+SaaS+with+real+clients;Android+apps+for+industrial+devices;Next+stop%3A+Data+Engineering" alt="Typing SVG" />
+  </a>
+</p>
 
-#### Lenguajes
-Los que uso a diario en Android, y los que manejo para web y scripting.
+<p align="center">
+  <a href="https://www.linkedin.com/in/joan-enajas-cort%C3%A9s-4689906a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jenajas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-E8630A?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:joan.enajas@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-#### 💻 IDEs/Editors
-Donde paso la mayor parte del día, según si el proyecto es Android o web.
+### 👋 About me
 
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+Developer based in Barcelona with **1.5 years of professional experience**. By day I build Android field-operations apps for industrial devices (RFID, GPS, BLE); on my own I design, build and run a **web SaaS for local businesses** end to end — with real, paying clients.
 
-#### 📚 Frameworks, Platforms and Libraries
-Herramientas que uso tanto en producción como en mis proyectos propios.
+I enjoy the whole path from idea to production, and I'm steering my career towards **web development** and **data**.
 
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### 🚀 Featured projects
 
-#### ☁️ Cloud & Deployment
-El stack con el que construyo y despliego mi producto SaaS.
+| Project | What it is | Stack |
+|---|---|---|
+| **PlantillaRestaurant** | White-label web-presence SaaS for local businesses, live with real clients | Astro · Netlify · Supabase |
+| **Multi-tenant manager** | Admin panel to run every client site from one place, built when manual management stopped scaling | React · GitHub API · Netlify API |
+| **J-SYSTEMS AI receptionist** | WhatsApp agent that books appointments and sends reminders for clinics and salons | Supabase · PostgreSQL |
+| **Field-ops apps @ IDWaste** | Native, hybrid and WebView Android apps for industrial devices | Kotlin · Java · Android |
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Supabase](https://img.shields.io/badge/supabase-%23181818.svg?style=for-the-badge&logo=supabase&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+👉 Demos and details on my [portfolio](https://jenajas.netlify.app/).
 
-#### 🎛️ Operating System
-Con los que trabajo y para los que desarrollo.
+### 🌱 Right now
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ⚛️ Going deep on **React + TypeScript**
+- 📊 Learning **data engineering**: Python, advanced SQL, dimensional modelling and Power BI
+- 🗄️ Moving my SaaS onto **Supabase / PostgreSQL** to support multiple business verticals
+- 🔎 **Open to opportunities** in Barcelona area, hybrid or remote
 
-- 💼 Actualmente, desarrollando apps Android para operaciones de campo (WebView, híbridas y nativas) sobre dispositivos industriales.
-- 🚀 Construyendo mi propio SaaS de presencia web para negocios locales, con clientes reales activos.
-- 🔭 Migrando la arquitectura de mi producto a Supabase/PostgreSQL para soportar múltiples verticales de negocio.
-- 📱 Profundizando en Jetpack Compose y arquitecturas Android modernas.
-- 📫 Cómo contactarme: [joan.enajas@gmail.com](mailto:joan.enajas@gmail.com)
+### 🛠️ Tech stack
 
-J0anet
-([www.linkedin.com/in/joan-enajas-cortés-4689906a](https://www.linkedin.com/in/joan-enajas-cortés-4689906a))
+**Web**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css,php&theme=dark" alt="Web stack" />
 
-Mi Porfolio
-Puedes verlo en: https://jenajas.netlify.app/
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="Mobile stack" />
+
+**Data & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=py,postgres,supabase,netlify,firebase&theme=dark" alt="Data and cloud stack" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E8630A&height=110&section=footer" alt="" width="100%" />
+</p>

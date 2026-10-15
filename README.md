@@ -63,7 +63,7 @@ Me gusta entender bien el problema antes de escribir código, diseñar el modelo
 |---|---|---|
 | **Jena Systems** *(in progress)* | Multi-tenant appointment manager with a WhatsApp agent: an LLM understands client requests, checks availability, books appointments and sends reminders. Per-business panel + global admin view on a single PostgreSQL database, JWT auth and deny-by-default RLS | React · TypeScript · Supabase · Netlify Functions · WhatsApp Cloud API · LLM |
 | **PlantillaRestaurant** | Web platform for local businesses with real clients: one base template adapted to each business by configuration only. Mobile-friendly admin panel to edit the menu, with automatic CA/ES/EN translation (Gemini) and content updates without redeploys | React 19 · TypeScript · Vite · Tailwind CSS · Netlify |
-| **Field apps @ id-waste** | Hybrid Android + web apps (Kotlin native container + WebView) for industrial devices and city-council apps: REST APIs, background sync and hardware integration (RFID UHF, BLE, NFC, GPS) | Kotlin · PHP · JavaScript · Android SDK |
+| **Field apps @ id-waste** | Hybrid Android + web apps in production, used every day by waste-collection teams in several municipalities. Kotlin native container + WebView (PHP/JS) for industrial devices and city-council apps: REST APIs, offline storage and background sync between devices and server, hardware integration (RFID UHF, BLE, NFC, GPS) and maps (HERE, TomTom) | Kotlin · Coroutines · Room · WorkManager · Android SDK · PHP · JavaScript |
 
 👉 Demos and details on my [portfolio](https://jenajas.netlify.app/).
 

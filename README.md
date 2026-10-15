@@ -17,14 +17,14 @@
 
 ---
 
-### 👋 About me
+### About me
 
 Full stack web developer from Martorell (Barcelona) with **almost two years of experience in production**. I've built my own SaaS end to end with **React, TypeScript and PostgreSQL**, and at work I maintain hybrid Android + web apps used every day by field teams in several municipalities.
 
 I like to understand the problem before writing code, design the data model carefully and take ideas all the way to production.
 
 <details>
-<summary><b>🌐 Llegir en català</b></summary>
+<summary><b>Llegir en català</b></summary>
 
 <br/>
 
@@ -33,15 +33,15 @@ Desenvolupador web full stack de Martorell (Barcelona) amb **gairebé dos anys d
 M'agrada entendre bé el problema abans d'escriure codi, dissenyar el model de dades amb cura i portar les idees fins a producció.
 
 **Ara mateix**
-- 🤖 Desenvolupant **Jena Systems**: gestor de cites multi-tenant amb un agent de WhatsApp amb IA
-- 🍽️ Fent créixer **PlantillaRestaurant** amb clients reals
-- 🐍 Aprenent **Python orientat a dades**
-- 🔎 **Obert a noves oportunitats** com a desenvolupador web / full stack — zona de Barcelona, híbrid o remot
+- Desenvolupant **Jena Systems**: gestor de cites multi-tenant amb un agent de WhatsApp amb IA
+- Fent créixer **PlantillaRestaurant** amb clients reals
+- Aprenent **Python orientat a dades**
+- **Obert a noves oportunitats** com a desenvolupador web / full stack a la zona de Barcelona (híbrid o remot)
 
 </details>
 
 <details>
-<summary><b>🌐 Leer en castellano</b></summary>
+<summary><b>Leer en castellano</b></summary>
 
 <br/>
 
@@ -50,14 +50,14 @@ Desarrollador web full stack de Martorell (Barcelona) con **casi dos años de ex
 Me gusta entender bien el problema antes de escribir código, diseñar el modelo de datos con cuidado y llevar las ideas hasta producción.
 
 **Ahora mismo**
-- 🤖 Desarrollando **Jena Systems**: gestor de citas multi-tenant con un agente de WhatsApp con IA
-- 🍽️ Haciendo crecer **PlantillaRestaurant** con clientes reales
-- 🐍 Aprendiendo **Python orientado a datos**
-- 🔎 **Abierto a nuevas oportunidades** como desarrollador web / full stack — zona de Barcelona, híbrido o remoto
+- Desarrollando **Jena Systems**: gestor de citas multi-tenant con un agente de WhatsApp con IA
+- Haciendo crecer **PlantillaRestaurant** con clientes reales
+- Aprendiendo **Python orientado a datos**
+- **Abierto a nuevas oportunidades** como desarrollador web / full stack en la zona de Barcelona (híbrido o remoto)
 
 </details>
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -65,28 +65,28 @@ Me gusta entender bien el problema antes de escribir código, diseñar el modelo
 | **PlantillaRestaurant** | Web platform for local businesses with real clients: one base template adapted to each business by configuration only. Mobile-friendly admin panel to edit the menu, with automatic CA/ES/EN translation (Gemini) and content updates without redeploys | React 19 · TypeScript · Vite · Tailwind CSS · Netlify |
 | **Field apps @ id-waste** | Hybrid Android + web apps in production, used every day by waste-collection teams in several municipalities. Kotlin native container + WebView (PHP/JS) for industrial devices and city-council apps: REST APIs, offline storage and background sync between devices and server, hardware integration (RFID UHF, BLE, NFC, GPS) and maps (HERE, TomTom) | Kotlin · Coroutines · Room · WorkManager · Android SDK · PHP · JavaScript |
 
-👉 Demos and details on my [portfolio](https://jenajas.netlify.app/).
+Demos and details on my [portfolio](https://jenajas.netlify.app/).
 
-### 🌱 Right now
+### Right now
 
-- 🤖 Building **Jena Systems**: multi-tenant appointment manager with an AI WhatsApp agent
-- 🍽️ Growing **PlantillaRestaurant** with real clients
-- 🐍 Learning **Python for data**
-- 🔎 **Open to opportunities** as a web / full stack developer — Barcelona area, hybrid or remote
+- Building **Jena Systems**: multi-tenant appointment manager with an AI WhatsApp agent
+- Growing **PlantillaRestaurant** with real clients
+- Learning **Python for data**
+- **Open to opportunities** as a web / full stack developer in the Barcelona area (hybrid or remote)
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Web**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css,php&theme=dark" alt="Web stack" />
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" title="Astro" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="48" height="48" />
 
 **Mobile**<br/>
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio&theme=dark" alt="Mobile stack" />
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio" width="48" height="48" />
 
 **Data & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=py,postgres,supabase,netlify,firebase&theme=dark" alt="Data and cloud stack" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=netlify&theme=dark" alt="Netlify" title="Netlify" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="48" height="48" />
 
 **Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" width="48" height="48" />&nbsp;<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="48" height="48" />
 
 <!-- Footer -->
 <p align="center">

@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8630A,100:0d1117&height=190&section=header&text=Joan%20Enajas&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Barcelona&descAlignY=58&descSize=18&animation=fadeIn" alt="Joan Enajas" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8630A,100:0d1117&height=190&section=header&text=Joan%20Enajas&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20Barcelona&descAlignY=58&descSize=18&animation=fadeIn" alt="Joan Enajas" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://jenajas.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8630A&center=true&vCenter=true&width=640&lines=Web+Developer+%C2%B7+React+%26+TypeScript;Building+a+SaaS+with+real+clients;Android+apps+for+industrial+devices;Next+stop%3A+Data+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E8630A&center=true&vCenter=true&width=640&lines=Full+Stack+Web+Developer;React+%C2%B7+TypeScript+%C2%B7+PostgreSQL;Building+SaaS+products+end+to+end;Hybrid+Android+%2B+web+apps+in+production" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,27 +19,60 @@
 
 ### 👋 About me
 
-Developer based in Barcelona with **1.5 years of professional experience**. By day I build Android field-operations apps for industrial devices (RFID, GPS, BLE); on my own I design, build and run a **web SaaS for local businesses** end to end — with real, paying clients.
+Full stack web developer from Martorell (Barcelona) with **almost two years of experience in production**. I've built my own SaaS end to end with **React, TypeScript and PostgreSQL**, and at work I maintain hybrid Android + web apps used every day by field teams in several municipalities.
 
-I enjoy the whole path from idea to production, and I'm steering my career towards **web development** and **data**.
+I like to understand the problem before writing code, design the data model carefully and take ideas all the way to production.
+
+<details>
+<summary><b>🌐 Llegir en català</b></summary>
+
+<br/>
+
+Desenvolupador web full stack de Martorell (Barcelona) amb **gairebé dos anys d'experiència en producció**. He construït de principi a fi el meu propi SaaS amb **React, TypeScript i PostgreSQL**, i a la feina mantinc apps híbrides Android + web que fan servir cada dia equips de camp de diversos municipis.
+
+M'agrada entendre bé el problema abans d'escriure codi, dissenyar el model de dades amb cura i portar les idees fins a producció.
+
+**Ara mateix**
+- 🤖 Desenvolupant **Jena Systems**: gestor de cites multi-tenant amb un agent de WhatsApp amb IA
+- 🍽️ Fent créixer **PlantillaRestaurant** amb clients reals
+- 🐍 Aprenent **Python orientat a dades**
+- 🔎 **Obert a noves oportunitats** com a desenvolupador web / full stack — zona de Barcelona, híbrid o remot
+
+</details>
+
+<details>
+<summary><b>🌐 Leer en castellano</b></summary>
+
+<br/>
+
+Desarrollador web full stack de Martorell (Barcelona) con **casi dos años de experiencia en producción**. He construido de principio a fin mi propio SaaS con **React, TypeScript y PostgreSQL**, y en mi trabajo mantengo apps híbridas Android + web que usan a diario equipos de campo en varios municipios.
+
+Me gusta entender bien el problema antes de escribir código, diseñar el modelo de datos con cuidado y llevar las ideas hasta producción.
+
+**Ahora mismo**
+- 🤖 Desarrollando **Jena Systems**: gestor de citas multi-tenant con un agente de WhatsApp con IA
+- 🍽️ Haciendo crecer **PlantillaRestaurant** con clientes reales
+- 🐍 Aprendiendo **Python orientado a datos**
+- 🔎 **Abierto a nuevas oportunidades** como desarrollador web / full stack — zona de Barcelona, híbrido o remoto
+
+</details>
 
 ### 🚀 Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **PlantillaRestaurant** | White-label web-presence SaaS for local businesses, live with real clients | Astro · Netlify · Supabase |
-| **Multi-tenant manager** | Admin panel to run every client site from one place, built when manual management stopped scaling | React · GitHub API · Netlify API |
-| **J-SYSTEMS AI receptionist** | WhatsApp agent that books appointments and sends reminders for clinics and salons | Supabase · PostgreSQL |
-| **Field-ops apps @ IDWaste** | Native, hybrid and WebView Android apps for industrial devices | Kotlin · Java · Android |
+| **Jena Systems** *(in progress)* | Multi-tenant appointment manager with a WhatsApp agent: an LLM understands client requests, checks availability, books appointments and sends reminders. Per-business panel + global admin view on a single PostgreSQL database, JWT auth and deny-by-default RLS | React · TypeScript · Supabase · Netlify Functions · WhatsApp Cloud API · LLM |
+| **PlantillaRestaurant** | Web platform for local businesses with real clients: one base template adapted to each business by configuration only. Mobile-friendly admin panel to edit the menu, with automatic CA/ES/EN translation (Gemini) and content updates without redeploys | React 19 · TypeScript · Vite · Tailwind CSS · Netlify |
+| **Field apps @ id-waste** | Hybrid Android + web apps (Kotlin native container + WebView) for industrial devices and city-council apps: REST APIs, background sync and hardware integration (RFID UHF, BLE, NFC, GPS) | Kotlin · PHP · JavaScript · Android SDK |
 
 👉 Demos and details on my [portfolio](https://jenajas.netlify.app/).
 
 ### 🌱 Right now
 
-- ⚛️ Going deep on **React + TypeScript**
-- 📊 Learning **data engineering**: Python, advanced SQL, dimensional modelling and Power BI
-- 🗄️ Moving my SaaS onto **Supabase / PostgreSQL** to support multiple business verticals
-- 🔎 **Open to opportunities** in Barcelona area, hybrid or remote
+- 🤖 Building **Jena Systems**: multi-tenant appointment manager with an AI WhatsApp agent
+- 🍽️ Growing **PlantillaRestaurant** with real clients
+- 🐍 Learning **Python for data**
+- 🔎 **Open to opportunities** as a web / full stack developer — Barcelona area, hybrid or remote
 
 ### 🛠️ Tech stack
 
